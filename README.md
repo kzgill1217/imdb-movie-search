@@ -6,3 +6,5 @@ use JQuery to show the results.
 
 I used a customized css file from Bootswatch to easily change the look and feel of the Bootsrap components I am using to display
 the content.
+
+Please visit the demonstration here https://kzgill1217.github.io/imdb-movie-search/
